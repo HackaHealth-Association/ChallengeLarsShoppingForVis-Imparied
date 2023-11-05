@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lars</string>
+    <string name="write_tag">Write tag</string>
+    <string name="read_tag">Read tag</string>
+</resources>

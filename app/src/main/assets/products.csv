@@ -1,0 +1,19 @@
+Art-Nr,NFC-Nr.,Art.-Bez.,PositionimLayout,LB-Name
+1,1001,Pizza snack,34,food
+2,1002,Reis Waffer,45,food
+3,1003,Dardiva,46,food
+4,4001,Brown Choco,47,food
+5,4002,White Choco,89,food
+6,4003,Biscuit,90,food
+7,2001,Aplle Royal,92,food
+8,2002,Apple Gala,93,food
+9,2003,El Tony,102,food
+10,5001,Switch,103,electronics
+11,5002,Motor,145,electronics
+12,5003,SD,146,electronics
+13,3001,Arduino Nano,147,electronics
+14,3002,Arduino Uno,200,electronics
+15,3003,Arduino Mega,210,electronics
+16,6001,Cable,211,electronics
+17,6002,Battery 9v,240,electronics
+18,6003,Battery 1.5V,241,electronics
